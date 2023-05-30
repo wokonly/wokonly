@@ -1,8 +1,4 @@
-<p align="center">
-    <a href="https://github.com/wokonly">
-        <img src="https://discord-readme.vercel.app/api/858196970223829053"/>
-    </a>
-</p>
+[![Discord Presence](https://lanyard.cnrad.dev/api/1069726269245235303)](https://discord.com/users/1069726269245235303)
 
 ![Profile views](https://gpvc.arturio.dev/wokonly)
 
